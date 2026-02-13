@@ -24,7 +24,7 @@ Build a regression model to predict house sale prices based on property features
 ```bash
 pip install -r requirements.txt
 python xgboost_house_prices.py
-```bash
+```
 
 
 # House Prices – Advanced Regression (Refactored & Leakage-Safe Version)
